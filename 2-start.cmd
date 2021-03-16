@@ -1,0 +1,1 @@
+dbcontents.py contents.db *.nsr
