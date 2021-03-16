@@ -6,6 +6,7 @@ import re
 import logging
 import sysnsrc as sy
 
+# kill_docs_by_patch.py - запускается с параметром - папка, где лежит патч и топики для утраты
 
 def get_version():
     cyrdate = datetime.datetime.today()
